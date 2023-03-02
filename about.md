@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Alice is a neurodivergent person who is attempting to make sense of a lifetime of Schizophrenic Delusions of Reference in an interesting yet socially responsible way. Their experience of this is personal to them alone and in no way applies to others with such a diagnosis or delusions of that sort. They feel there is validity and value to their delusions, while still being entirely comfortable treating and labelling them as delusions. 
